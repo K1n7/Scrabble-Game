@@ -11,4 +11,4 @@ const Scoreboard = () => {
     );
 };
 
-export default Scoreboard;
+export default Scoreboard; 
